@@ -2,7 +2,7 @@
 
 <body>
   <center>
-<h1 align="center">(っ◔◡◔)っ ♥ welcome to my profile ♥ </h1>
+<h1 align="center">(っ◔◡◔)っ ♥ 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 ♥ </h1>
 <br>
 <div align="center">
   <a href="https://www.instagram.com/chia_ling_hsu/" >
@@ -18,7 +18,7 @@
 <div>
 <h2 align="center">  ᐕ)ﾉ~ 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 ~  </h2>
   <div align="center">
-<img src="https://i.imgur.com/LAzSAEo.gif" align="right">
+<img src="https://inews.gtimg.com/newsapp_match/0/9837665579/0" align="right">
   </div>
 <li>
  <b>Name:</b> Lisia</li>
@@ -35,6 +35,11 @@
 <br><br>
 </div>
 <div>
+  <br>
+  <br>
+  <br>
+   <br>
+  <br>
 <h2 align="center">            ~ ♬✧ 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲  ~</h2>
  <br>
 <p>
@@ -49,6 +54,10 @@
 Although I just started learning programming not long ago, but I am very interested in programming, I will do my best.
 </p>
 <br>
+   <br>
+  <br>
+   <br>
+  <br>
 <div>
 <h2 align="center">♥ Thanks for reading ✧*｡٩(ˊᗜˋ*)و✧*｡♥</h2>
 <div align="center">
