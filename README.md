@@ -1,4 +1,4 @@
-### Hi There I'm Lisia
+### Hi There, I'm Lisia
 
 <body>
   <center>
