@@ -1,9 +1,5 @@
 ### Hi There, I'm Lisia
 
-# prefromance
-
-###### tags: `git&github`
-
 <body>
   <center>
 <h1 align="center">(っ◔◡◔)っ ♥ welcome to my profile ♥ </h1>
