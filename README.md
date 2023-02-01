@@ -19,7 +19,7 @@ export default {
   country: 'Taiwan',
   technologies:{
     backEnd: ['nodejs'],
-    frontEnd: ['javascript', 'jquery', 'vue',', 'vuetify'],
+    frontEnd: ['javascript', 'jquery', 'vue', 'vuetify'],
     database: ['mongo'],
   }
 }
